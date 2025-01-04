@@ -1,0 +1,10 @@
+# Unity-specific ignores
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Uu]ser[Ss]ettings/
+
+# OS-specific ignores
+.DS_Store
+Thumbs.db
